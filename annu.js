@@ -10,7 +10,7 @@ class student{
         console.log(`Hello ${this.name} Your age ${this.age} ${this.address}`);
     }
      static nikhil(){
-        console.log("arun here")
+        console.log("Nikhil is comik gays. he lives in kanpur")
     }
 
  }
